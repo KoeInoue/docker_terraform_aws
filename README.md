@@ -19,4 +19,3 @@ Show infra resources
 
 - terraform
 - aws cli
-- Docker
